@@ -3,7 +3,7 @@ import {
   Component
 } from 'react';
 
-var quizData = require('./quiz_data.json');
+let quizData = require('./quiz_data.json');
 
 class Quiz extends Component {
 
